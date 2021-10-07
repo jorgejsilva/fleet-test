@@ -7,4 +7,4 @@ spec:
   repo: https://github.com/jorgejsilva/fleet-test
   paths:
   - nginx-fleet
-  branch: master
+  branch: main
