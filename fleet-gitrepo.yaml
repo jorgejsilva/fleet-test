@@ -1,0 +1,9 @@
+kind: GitRepo
+apiVersion: fleet.cattle.io/v1alpha1
+metadata:
+  name: fleet-helm-test
+  namespace: fleet-local
+spec:
+  repo: https://github.com/jorgejsilva/fleet-test
+  paths:
+  - nginx-fleet
