@@ -4,7 +4,7 @@ metadata:
   name: fleet-helm-test
   namespace: fleet-local
 spec:
-  repo: https://github.com/jorgejsilva/fleet-test
-  paths:
-  - nginx-fleet
+  repo: https://github.com/jorgejsilva/fleet-projects
+#  paths:
+#  - nginx-fleet
   branch: main
