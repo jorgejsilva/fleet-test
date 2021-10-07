@@ -31,6 +31,6 @@ helm:
   #values:
   #  replicas: 2
   values:
-    replicaCount: 4
+    replicaCount: 3
     image:
       tag: "1.1"
